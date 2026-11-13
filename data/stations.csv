@@ -1,0 +1,6 @@
+code,capacity,turnaround_minutes
+QH-A,3,95
+QH-B,2,60
+QH-C,4,120
+QH-D,1,45
+QH-E,2,70
